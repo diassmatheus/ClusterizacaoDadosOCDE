@@ -3,7 +3,7 @@
 
 ##  💻 Sobre o projeto</br> </br> 
 
-O projeto foi proposto durante a realização da disciplina optativa de Mineração de Dados do curso de Engenharia de Produção da <a href="http://www.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>, entre junho e agosto de 2021, foram analisados indicadores de crescimento verde da OCDE - Organização para a Cooperação e Desenvolvimento Econômico.
+O projeto foi proposto durante a realização da disciplina optativa de Mineração de Dados do curso de Engenharia de Produção da <a href="http://www.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>, entre junho e agosto de 2021. Foram analisados indicadores de crescimento verde da OCDE - Organização para a Cooperação e Desenvolvimento Econômico.
 
 Por meio de tarefas de clusterização de dados, este projeto teve como objetivo analisar os padrões entre países dos mesmos agrupamentos.
 Para tanto, foram utilizados dados do <a href="https://www.oecd-ilibrary.org/environment/data/oecd-environment-statistics/green-growth-indicators_data-00665-en"> Green growth indicators </a> e os algoritmos de clusterização k-means e agrupamento hierárquico aglomerativo e a análise dos coeficientes de silhueta para escolha do número ideal de clusters.
