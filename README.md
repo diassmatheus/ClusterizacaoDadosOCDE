@@ -39,4 +39,4 @@ A lógica para análise foi baseada:
 
 ## 🛠 Tecnologias
 
-As análises foram desenvolvidos na linguagem Python, utilizando o Jupyter Notebook,  o formato de troca de dados JavaScript Object Notation (JSON) e as bibliotecas de software Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, SciPy e Plotly.
+As análises foram desenvolvidos na linguagem Python, utilizando o Jupyter Notebook,  JSON e as bibliotecas Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, SciPy e Plotly.
