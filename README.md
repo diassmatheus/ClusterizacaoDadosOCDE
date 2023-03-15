@@ -5,7 +5,7 @@
 
 Acesse o notebook completo <a href="https://github.com/diassmatheus/ClusterizacaoDadosOCDE/blob/master/CLUSTERIZACAO_DE_PAISES_POR_INDICADORES_DE_CRESCIMENTO_VERDE.ipynb"> aqui </a>
 
-Acesse o artigo publicado na Revista Principia do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) <a "href=https://periodicos.ifpb.edu.br/index.php/principia/article/view/7168"> aqui </a>
+Acesse o artigo publicado na Revista Principia do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) <a href="https://periodicos.ifpb.edu.br/index.php/principia/article/view/7168"> aqui </a>
 
 O projeto foi proposto durante a realização da disciplina optativa de Mineração de Dados do curso de Engenharia de Produção da <a href="http://www.utfpr.edu.br/"> Universidade Tecnológica Federal do Paraná </a>, entre junho e agosto de 2021. Foram analisados indicadores de crescimento verde da OCDE - Organização para a Cooperação e Desenvolvimento Econômico.
 
